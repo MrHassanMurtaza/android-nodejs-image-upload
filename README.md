@@ -11,8 +11,11 @@ npm install
 3. Run nodejs code
 ```
 node index
+```
 or just
+```
 node
+
 ```
 4. Open Android code
 5. Change IP address (if required) in MainActivity.java variable named "UPLOAD_URL". Which look something like this
